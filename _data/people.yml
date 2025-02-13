@@ -1,42 +1,88 @@
 - name: Réza Ansari
   image: ../assets/resized/ra.jpg
+  status: Scientist
+  affiliation: CEA
+- name: Myrian Barraud
+  status: Engineer
+  affiliation: L2S
 - name: Jérôme Bobin
   image: ../assets/resized/jb.jpg
+  status: Scientist
+  affiliation: CEA
 - name: Lucien Bacharah
   image: ../assets/resized/lb.jpg
+  status: Scientist
+  affiliation: SATIE
 - name: Gille Chardon
   image: ../assets/resized/gc.jpg
+  status: Scientist
+  affiliation: L2S
 - name: Marian Douspis
   image: ../assets/resized/md.jpg
+  status: Scientist
+  affiliation: IAS
 - name: Samuel Farrens
   image: ../assets/resized/sf.jpg
+  status: Scientist
+  affiliation: CEA
 - name: Nicolas Gac
   image: ../assets/resized/ng.jpg
   url: https://gac.gitlab.dsi.universite-paris-saclay.fr/w/
+  status: Scientist
+  affiliation: SATIE
 - name: Adélie Gorce
   image: ../assets/resized/ag.jpg
+  status: Scientist
+  affiliation: IAS
 - name: Jonathan Kern
+  status: Post-doc
+  affiliation: CEA
 - name: Martin Kilbinger
   image: ../assets/resized/mk.jpg
+  status: Scientist
+  affiliation: CEA
 - name: Mohammed Nabil El Korso
   image: ../assets/resized/nek.jpg
+  status: Scientist
+  affiliation: L2S
 - name: Mathieu Langer
   image: ../assets/resized/ml.jpg
+  status: Scientist
+  affiliation: IAS
 - name: François Lanusse
   image: ../assets/resized/fl.jpg
+  status: Scientist
+  affiliation: CNRS
 - name: Pascal Larzabal
   image: ../assets/resized/pl.jpg
+  status: Scientist
+  affiliation: Paris-Saclay Universty
 - name: Tobias Liaudat
   image: ../assets/resized/tl.jpg
+  status: Scientist
+  affiliation: CEA
 - name: Elizabeth McBride
 - name: Marc-Antoine Miville-Deschênes
   image: ../assets/resized/mamd.jpg
+  status: Scientist
+  affiliation: CNRS
+- name: Nicolas Monnier
+  status: Research Engineer
+  affiliation: CNRS
 - name: François Orieux
   image: ../assets/resized/fo.jpg
   url: https://pro.orieux.fr
+  status: Scientist
+  affiliation: L2S
 - name: Thomas Rodet
   image: ../assets/resized/tr.jpg
+  status: Scientist
+  affiliation: SATIE
 - name: Jean-Luc Starck
   image: ../assets/resized/jls.jpg
+  status: Scientist
+  affiliation: CEA
 - name: Isabelle Vin
   image: ../assets/resized/iv.jpg
+  status: Scientist
+  affiliation: SATIE
