@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "ICR Working group"
+  name   : "ICR Working Group"
   # avatar : "/assets/images/bio-photo.jpg"
   bio    : "Based on Paris-Saclay University campus, gathering people from L2S, IAS, SATIE, and CEA."
   # links:

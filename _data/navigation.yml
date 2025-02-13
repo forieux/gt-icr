@@ -1,9 +1,7 @@
 main:
-  - title: "Posts"
+  - title: "Meetings"
     url: /posts/
-  # - title: "Categories"
-  #   url: /categories/
-  # - title: "Tags"
-  #   url: /tags/
+  - title: "Peoples"
+    url: /peoples/
   - title: "About"
     url: /about/
