@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ICR WG
+title: ICR Working Group
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Computationnal imaging working group for radio-astronomy, as well as data, image and signal processing or statistical learning.
@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "ICR Working Group"
+  # name   : "ICR Working Group"
   # avatar : "/assets/images/bio-photo.jpg"
   bio    : "Based on Paris-Saclay University campus, gathering people from L2S, IAS, SATIE, and CEA."
   # links:
