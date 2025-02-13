@@ -6,7 +6,7 @@ DD
 
 
 <div class="gallery">
-{% for person in site.data.people %}
+{% for person in site.data.peoples %}
   <div class="person-card">
     <a href="{{ person.url }}" target="_blank">
       <img src="{{ person.image }}" alt="{{ person.name }}" class="person-img">
