@@ -3,7 +3,7 @@
   status: Scientist
   affiliation: CEA
 - name: Myrian Barraud
-  image: ../assets/none.jpg
+  image: ../assets/resized/none.jpg
   status: Engineer
   affiliation: L2S
 - name: Jérôme Bobin
@@ -36,7 +36,7 @@
   status: Scientist
   affiliation: IAS
 - name: Jonathan Kern
-  image: ../assets/none.jpg
+  image: ../assets/resized/none.jpg
   status: Post-doc
   affiliation: CEA
 - name: Martin Kilbinger
@@ -64,7 +64,7 @@
   status: Scientist
   affiliation: CEA
 - name: Elizabeth McBride
-  image: ../assets/none.jpg
+  image: ../assets/resized/none.jpg
 - name: Marc-Antoine Miville-Deschênes
   image: ../assets/resized/mamd.jpg
   status: Scientist
