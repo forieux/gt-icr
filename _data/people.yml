@@ -1,44 +1,42 @@
-- name: François Orieux
-  image: ../assets/resized/fo.jpg
-  url: https://pro.orieux.fr
+- name: Réza Ansari
+  image: ../assets/resized/ra.jpg
+- name: Jérôme Bobin
+  image: ../assets/resized/jb.jpg
+- name: Lucien Bacharah
+  image: ../assets/resized/lb.jpg
+- name: Gille Chardon
+  image: ../assets/resized/gc.jpg
+- name: Marian Douspis
+  image: ../assets/resized/md.jpg
+- name: Samuel Farrens
+  image: ../assets/resized/sf.jpg
 - name: Nicolas Gac
   image: ../assets/resized/ng.jpg
   url: https://gac.gitlab.dsi.universite-paris-saclay.fr/w/
-- name: Mohammed Nabil El Korso
-  image: ../assets/resized/nek.jpg
-- name: Gille Chardon
-  image: ../assets/resized/gc.jpg
-- name: Lucien Bacharah
-  image: ../assets/resized/lb.jpg
-- name: Pascal Larzabal
-  image: ../assets/resized/pl.jpg
-- name: Isabelle Vin
-  image: ../assets/resized/iv.jpg
-- name: Thomas Rodet
-  image: ../assets/resized/tr.jpg
-- name: Jérôme Bobin
-  image: ../assets/resized/jb.jpg
-- name: Jonathan Kern
-  # image: ../assets/resized/jk.jpg
-- name: Tobias Liaudat
-  image: ../assets/resized/tl.jpg
-- name: Jean-Luc Starck
-  image: ../assets/resized/jls.jpg
-- name: Samuel Farrens
-  image: ../assets/resized/sf.jpg
-- name: Martin Kilbinger
-  image: ../assets/resized/mk.jpg
-- name: François Lanusse
-  image: ../assets/resized/fl.jpg
-- name: Réza Ansari
-  image: ../assets/resized/ra.jpg
-- name: Marc-Antoine Miville-Deschênes
-  image: ../assets/resized/mamd.jpg
-- name: Marian Douspis
-  image: ../assets/resized/md.jpg
 - name: Adélie Gorce
   image: ../assets/resized/ag.jpg
+- name: Jonathan Kern
+- name: Martin Kilbinger
+  image: ../assets/resized/mk.jpg
+- name: Mohammed Nabil El Korso
+  image: ../assets/resized/nek.jpg
 - name: Mathieu Langer
   image: ../assets/resized/ml.jpg
+- name: François Lanusse
+  image: ../assets/resized/fl.jpg
+- name: Pascal Larzabal
+  image: ../assets/resized/pl.jpg
+- name: Tobias Liaudat
+  image: ../assets/resized/tl.jpg
 - name: Elizabeth McBride
-  # image: ../assets/resized/ng.jpg
+- name: Marc-Antoine Miville-Deschênes
+  image: ../assets/resized/mamd.jpg
+- name: François Orieux
+  image: ../assets/resized/fo.jpg
+- name: Thomas Rodet
+  image: ../assets/resized/tr.jpg
+- name: Jean-Luc Starck
+  image: ../assets/resized/jls.jpg
+- name: Isabelle Vin
+  image: ../assets/resized/iv.jpg
+  url: https://pro.orieux.fr
