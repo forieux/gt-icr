@@ -1,6 +1,6 @@
 ---
 permalink: /peoples/
-title: "People"
+title: "Peoples involved"
 ---
 
 <div class="gallery">

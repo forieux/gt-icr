@@ -15,7 +15,7 @@ optimization, data calibration, and high-performance computing. The group aims
 to foster collaboration through regular seminars and a funded Master’s
 internship to explore advanced computational imaging and statistical methods
 
-## L2S
+## [L2S](https://l2s.centralesupelec.fr/)
 
 Signals and Systems Laboratory has recognised expertise in statistical signal
 processing, antenna processing, inverse problems and computational imaging. The
@@ -29,7 +29,7 @@ calibration and the acceleration of image reconstruction algorithms and the
 ECLAT (Extreme Computing Laboratory for Astronomical Telescopes) joint
 laboratory
 
-## SATIE
+## [SATIE](https://satie.ens-paris-saclay.fr/)
 
 SATIE draws on its expertise in both signal processing and
 algorithm-architecture matching to meet the computational challenges of
@@ -42,7 +42,7 @@ ECLAT and the ANR Dark-Era consortium. SATIE is committed to the application
 side of its work, and is developing a collaboration with the Nançay Observatory
 (ORN), where NenuFAR, an SKA precursor, is located.
 
-## CEA
+## [CEA/Dedip](https://irfu.cea.fr/dedip/) & [CEA/Dap](https://irfu.cea.fr/dap/)
 
 Three Irfu departments at the CEA are or will be involved in SKA: the DPhP
 (Department of Particle Physics), the DAp (Department of Astrophysics) and the
@@ -55,7 +55,7 @@ well as designing the architecture of the SKA Regional Centres and
 adapting/optimising the use of High-Performance Computing (HPC) resources in
 this context.
 
-## IAS
+## [IAS](https://www.ias.u-psud.fr/)
 
 The IAS cosmology team is participating in the preparation of the SKA via its
 Cosmic Magnetism and Epoch of Reionisation scientific working groups and via the
