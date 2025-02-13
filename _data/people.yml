@@ -70,7 +70,7 @@
   status: Scientist
   affiliation: CNRS
 - name: Nicolas Monnier
-  image: ../assets/nm.jpg
+  image: ../assets/resized/nm.jpg
   status: Research Engineer
   affiliation: CNRS
 - name: François Orieux
