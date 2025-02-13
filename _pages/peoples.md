@@ -6,8 +6,10 @@ title: "People"
 <div class="gallery">
 {% for person in site.data.people %}
   <div class="person-card">
-    <img src="{{ person.image }}" alt="{{ person.name }}" class="person-img">
-    <p class="person-name">{{ person.name }}</p>
+    <a href="{{ person.url }}" target="_blank">
+      <img src="{{ person.image }}" alt="{{ person.name }}" class="person-img">
+      <p class="person-name">{{ person.name }}</p>
+    </a>
   </div>
 {% endfor %}
 </div>
