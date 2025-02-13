@@ -13,7 +13,7 @@ artificial intelligence. Several laboratories are involved, such as L2S, SATIE,
 CEA, and IAS, contributing expertise in statistical signal processing, algorithm
 optimization, data calibration, and high-performance computing. The group aims
 to foster collaboration through regular seminars and a funded Master’s
-internship to explore advanced computational imaging and statistical methods
+internship to explore advanced computational imaging and statistical methods.
 
 The Working Group is supported by the  [Graduate School ISN](https://www.universite-paris-saclay.fr/graduate-schools/graduate-school-informatique-et-sciences-du-numerique) of [Paris-Saclay University](https://www.universite-paris-saclay.fr/graduate-schools/graduate-school-informatique-et-sciences-du-numerique).
 
