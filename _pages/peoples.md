@@ -36,6 +36,6 @@ title: "People"
   }
   .person-name {
     margin-top: 10px;
-    font-weight: bold;
+    <!-- font-weight: bold; -->
   }
 </style>
