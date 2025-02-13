@@ -33,10 +33,10 @@
   image: ../assets/resized/mamd.jpg
 - name: François Orieux
   image: ../assets/resized/fo.jpg
+  url: https://pro.orieux.fr
 - name: Thomas Rodet
   image: ../assets/resized/tr.jpg
 - name: Jean-Luc Starck
   image: ../assets/resized/jls.jpg
 - name: Isabelle Vin
   image: ../assets/resized/iv.jpg
-  url: https://pro.orieux.fr
