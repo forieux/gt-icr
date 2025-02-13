@@ -3,8 +3,6 @@ permalink: /peoples/
 title: "People"
 ---
 
-# Liste de Personnes
-
 <div class="gallery">
 {% for person in site.data.people %}
   <div class="person-card">
