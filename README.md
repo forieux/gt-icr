@@ -1,27 +1,13 @@
-# Minimal Mistakes remote theme starter
+# Computationnal Imaging working group for radio-astronomy
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
-
-Contains basic configuration to get you a site with:
-
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
-
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
-
----
-
-## Troubleshooting
-
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
-
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+The working group focuses on computational imaging for radio astronomy in
+relation to the Square Kilometre Array (SKA) project, the largest radio
+interferometer set to deploy its first phase in 2024. This project, which
+involves high-performance computing to process 7.2 Tb/s of raw data, brings
+together experts from Paris-Saclay across various disciplines. Participants
+include astrophysicists and researchers in digital sciences, data science, and
+artificial intelligence. Several laboratories are involved, such as L2S, SATIE,
+CEA, and IAS, contributing expertise in statistical signal processing, algorithm
+optimization, data calibration, and high-performance computing. The group aims
+to foster collaboration through regular seminars and a funded Master’s
+internship to explore advanced computational imaging and statistical methods
