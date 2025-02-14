@@ -78,6 +78,10 @@
   url: https://pro.orieux.fr
   status: Scientist
   affiliation: L2S
+- name: Ophélie Renaud
+  image: ../assets/resized/or.jpg
+  status: Post-doc
+  affiliation: SATIE
 - name: Thomas Rodet
   image: ../assets/resized/tr.jpg
   status: Scientist
