@@ -63,6 +63,10 @@
   image: ../assets/resized/tl.jpg
   status: Scientist
   affiliation: CEA
+- name: Antoine Marchal
+  image: ../assets/resized/am.jpg
+  status: Scientist
+  affiliation: CNRS
 - name: Elizabeth McBride
   image: ../assets/resized/none.jpg
 - name: Marc-Antoine Miville-Deschênes
